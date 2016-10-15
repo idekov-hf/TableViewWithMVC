@@ -1,0 +1,72 @@
+[
+ {
+ "authorName": "Aaron",
+ "date": "Sun, 6th, 2017",
+ "title": "odio sagittis semper. Nam",
+ "previewText": "Cras interdum. Nunc sollicitudin commodo ipsum. Suspendisse non",
+ "avatarImageURL": "consequat enim diam vel arcu. Curabitur ut"
+ },
+ {
+ "authorName": "Kim",
+ "date": "Tue, 4th, 2016",
+ "title": "Donec felis orci, adipiscing",
+ "previewText": "cursus non, egestas a, dui. Cras pellentesque. Sed dictum. Proin eget odio. Aliquam vulputate",
+ "avatarImageURL": "massa lobortis"
+ },
+ {
+ "authorName": "Yvonne",
+ "date": "Tue, 13th, 2016",
+ "title": "augue scelerisque mollis. Phasellus libero",
+ "previewText": "tortor. Integer aliquam adipiscing lacus. Ut nec urna et arcu imperdiet ullamcorper. Duis at lacus. Quisque purus sapien, gravida non, sollicitudin a, malesuada",
+ "avatarImageURL": "Etiam laoreet, libero et tristique pellentesque, tellus sem"
+ },
+ {
+ "authorName": "Zephania",
+ "date": "Mon, 26th, 2015",
+ "title": "tempor erat neque non quam. Pellentesque",
+ "previewText": "aliquet, sem",
+ "avatarImageURL": "gravida mauris ut mi. Duis risus odio, auctor vitae,"
+ },
+ {
+ "authorName": "Cherokee",
+ "date": "Sun, 21st, 2016",
+ "title": "feugiat. Lorem ipsum dolor sit amet,",
+ "previewText": "iaculis nec, eleifend non, dapibus rutrum, justo. Praesent luctus. Curabitur egestas nunc sed libero. Proin sed turpis nec mauris blandit mattis. Cras eget nisi dictum augue malesuada malesuada. Integer",
+ "avatarImageURL": "libero. Donec consectetuer mauris id sapien. Cras"
+ },
+ {
+ "authorName": "Medge",
+ "date": "Sun, 21st, 2016",
+ "title": "aliquam iaculis, lacus pede",
+ "previewText": "id, blandit at, nisi. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin vel nisl. Quisque",
+ "avatarImageURL": "Integer sem elit, pharetra ut, pharetra sed,"
+ },
+ {
+ "authorName": "Camden",
+ "date": "Sun, 24th, 2016",
+ "title": "rhoncus. Nullam velit",
+ "previewText": "adipiscing. Mauris molestie pharetra nibh. Aliquam ornare, libero at auctor ullamcorper, nisl arcu iaculis enim,",
+ "avatarImageURL": "odio sagittis semper. Nam tempor diam dictum sapien. Aenean"
+ },
+ {
+ "authorName": "Zelenia",
+ "date": "Sat, 7th, 2017",
+ "title": "Nunc mauris. Morbi non sapien",
+ "previewText": "tellus sem mollis dui, in sodales elit erat vitae risus. Duis a mi fringilla mi lacinia mattis. Integer eu lacus. Quisque imperdiet,",
+ "avatarImageURL": "tempor augue ac"
+ },
+ {
+ "authorName": "Jordan",
+ "date": "Wed, 20th, 2016",
+ "title": "faucibus leo, in lobortis tellus",
+ "previewText": "sit amet lorem semper",
+ "avatarImageURL": "massa. Mauris vestibulum, neque sed"
+ },
+ {
+ "authorName": "Keegan",
+ "date": "Mon, 19th, 2017",
+ "title": "Vestibulum accumsan neque",
+ "previewText": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Etiam laoreet,",
+ "avatarImageURL": "magna. Cras convallis convallis dolor. Quisque tincidunt pede ac"
+ }
+ ]
